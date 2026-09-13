@@ -3,7 +3,7 @@ import { Suspense } from 'react'
 import './App.css'
 import Hero from './components/hero'
 import Navbar from './components/nav'
-// import ReceiveData from './components/receiveData'
+import ReceiveData from './components/receiveData'
 
 import type { IData } from './type'
 // import Footer from './components/footer'
@@ -29,7 +29,7 @@ function App() {
       <span className="text-gray-600 font-medium">Loading data...</span>
     </div>
   }>
-     {/* <ReceiveData userPromise={userPromise()}></ReceiveData> */}
+     <ReceiveData userPromise={userPromise()}></ReceiveData>
    </Suspense>
     {/* <Footer></Footer> */}
     </>

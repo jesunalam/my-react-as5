@@ -31,7 +31,7 @@ function App() {
   }>
      <ReceiveData userPromise={userPromise()}></ReceiveData>
    </Suspense>
-    {/* <Footer></Footer> */}
+    <Footer></Footer>
     </>
   )
     

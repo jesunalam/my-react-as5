@@ -6,7 +6,7 @@ import Navbar from './components/nav'
 import ReceiveData from './components/receiveData'
 
 import type { IData } from './type'
-// import Footer from './components/footer'
+import Footer from './components/footer'
 
 
 const userPromise= async():Promise<IData[]>=>{

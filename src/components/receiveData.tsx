@@ -44,7 +44,7 @@ const ReceiveData = ({ userPromise }: ReceiveProps) => {
         {/* Right side */}
 
         <div className="data_holder lg:col-span-3">
-          <div className="bg-white border border-gray-100/80 rounded-2xl p-5 shadow-sm sticky top-6">
+          <div className="bg-white border border-gray-100/80 rounded-2xl p-5 shadow-sm sticky top-24">
             <h3 className="font-bold text-slate-900 text-lg">Your Stack</h3>
 
             <p className="text-xs text-gray-400 mt-0.5 mb-4">

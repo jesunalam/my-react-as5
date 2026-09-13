@@ -1,0 +1,122 @@
+[
+  {
+    "id": "tech_001",
+    "name": "React",
+    "category": "Frontend",
+    "description": "A popular JavaScript library for building component-based user interfaces.",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
+    "rating": 4.9,
+    "difficulty": "Intermediate",
+    "badge": "Popular"
+  },
+  {
+    "id": "tech_002",
+    "name": "Node.js",
+    "category": "Backend",
+    "description": "An open-source, cross-platform JavaScript runtime environment for server-side code.",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Essential"
+  },
+  {
+    "id": "tech_003",
+    "name": "PostgreSQL",
+    "category": "Database",
+    "description": "A powerful, open-source object-relational database system known for reliability and performance.",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Robust"
+  },
+  {
+    "id": "tech_004",
+    "name": "Python",
+    "category": "Language",
+    "description": "A versatile high-level programming language widely used in AI, web development, and data science.",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Versatile"
+  },
+  {
+    "id": "tech_005",
+    "name": "Tailwind CSS",
+    "category": "Styling",
+    "description": "A utility-first CSS framework for rapidly building modern, custom user interfaces.",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg",
+    "rating": 4.7,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Fast"
+  },
+  {
+    "id": "tech_006",
+    "name": "Docker",
+    "category": "DevOps",
+    "description": "A platform for developing, shipping, and running applications in isolated containers.",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Containers"
+  },
+  {
+    "id": "tech_007",
+    "name": "Git",
+    "category": "Tools",
+    "description": "A distributed version control system designed to track changes in source code during development.",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
+    "rating": 4.9,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Essential"
+  },
+  {
+    "id": "tech_008",
+    "name": "TypeScript",
+    "category": "Language",
+    "description": "A strongly typed programming language that builds on JavaScript, giving you better tooling at scale.",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
+    "rating": 4.8,
+    "difficulty": "Intermediate",
+    "badge": "Type-Safe"
+  },
+  {
+    "id": "tech_009",
+    "name": "Next.js",
+    "category": "Frontend",
+    "description": "The React framework for the web, enabling full-stack application development and SSR.",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg",
+    "rating": 4.7,
+    "difficulty": "Intermediate",
+    "badge": "Trending"
+  },
+  {
+    "id": "tech_0010",
+    "name": "MongoDB",
+    "category": "Database",
+    "description": "A NoSQL document database designed for modern application development and cloud computing.",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg",
+    "rating": 4.6,
+    "difficulty": "Beginner-Friendly",
+    "badge": "Scalable"
+  },
+  {
+    "id": "tech_011",
+    "name": "Rust",
+    "category": "Language",
+    "description": "A systems programming language focused on safety, speed, and concurrency without a garbage collector.",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg",
+    "rating": 4.9,
+    "difficulty": "Advanced",
+    "badge": "Blazing Fast"
+  },
+  {
+    "id": "tech_012",
+    "name": "Kubernetes",
+    "category": "DevOps",
+    "description": "An open-source container orchestration system for automating deployment, scaling, and management.",
+    "icon": "https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg",
+    "rating": 4.6,
+    "difficulty": "Advanced",
+    "badge": "Orchestration"
+  }
+]

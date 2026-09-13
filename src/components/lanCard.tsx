@@ -22,7 +22,7 @@ const LanCard = ({ lan, selectLan, setSelectLan }: LanCardProps) => {
 
   return (
     <>
-      <div className="bg-white border border-gray-100/80 rounded-2xl p-6 flex flex-col justify-between shadow-[0_2px_8px_rgba(0,0,0,0.04)] hover:shadow-md transition-all h-full">
+    <div className={`${clickBtn?'bg-emerald-50/60 border border-emerald-90000':'bg-white border border-gray-100/80'} rounded-2xl p-6 flex flex-col justify-between shadow-[0_2px_8px_rgba(0,0,0,0.04)] hover:shadow-md transition-all h-full`}>
         <div>
           <div className="flex items-center justify-between mb-4">
             <div className="w-9 h-9 flex items-center justify-center">

@@ -1,7 +1,7 @@
 
 import { Suspense } from 'react'
 import './App.css'
-// import Hero from './components/hero'
+import Hero from './components/hero'
 import Navbar from './components/nav'
 // import ReceiveData from './components/receiveData'
 
@@ -22,7 +22,7 @@ function App() {
   return(
     <>
     <Navbar></Navbar>
-    {/* <Hero></Hero> */}
+    <Hero></Hero>
    <Suspense fallback= {
     <div className="flex items-center justify-center py-20 gap-3">
       <div className="w-6 h-6 border-4 border-orange-500 border-t-transparent rounded-full animate-spin"></div>
